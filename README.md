@@ -1,2 +1,2 @@
-# Q-Bonibon-
+# Q-Bonibon
 Kuantum Turkiye Hackathon
