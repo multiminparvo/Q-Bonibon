@@ -73,3 +73,77 @@ span.button-text {
     bottom: 141px;
     left: 20px;
 }
+
+
+.matrix.x {
+    height: 108px;
+    width: 200px;
+    background-size: 196px 70px;
+    background-repeat: no-repeat;
+    background-image: url(imgs/matrix-x.png);
+}
+
+.matrix.y {
+    height: 108px;
+    width: 100px;
+    background-size: 80px 70px;
+    background-repeat: no-repeat;
+    background-image: url(imgs/matrix-y.png);
+}
+
+.matrix.z {
+    height: 108px;
+    width: 100px;
+    background-size: 80px 70px;
+    background-repeat: no-repeat;
+    background-image: url(imgs/matrix-z.png);
+}
+
+.matrix.h {
+    height: 108px;
+    width: 100px;
+    background-size: 80px 70px;
+    background-repeat: no-repeat;
+    background-image: url(imgs/matrix-h.png);
+}
+
+
+
+
+.qubit.x {
+    height: 130px;
+    width: 294px;
+    background-size: 261px 118px;
+    background-repeat: no-repeat;
+    background-image: url(imgs/info-x.png);
+}
+
+.qubit.y {
+    height: 130px;
+    width: 294px;
+    background-size: 261px 118px;
+    background-repeat: no-repeat;
+    background-image: url(imgs/info-y.png);
+}
+
+.qubit.z {
+    height: 130px;
+    width: 294px;
+    background-size: 261px 118px;
+    background-repeat: no-repeat;
+    background-image: url(imgs/info-z.png);
+}
+
+.qubit.h {
+    height: 130px;
+    width: 294px;
+    background-size: 261px 118px;
+    background-repeat: no-repeat;
+    background-image: url(imgs/info-h.png);
+}
+
+.info-wrapper {
+    position: absolute;
+    left: 64%;
+    bottom: 50%;
+}
