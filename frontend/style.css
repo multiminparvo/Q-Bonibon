@@ -1,0 +1,75 @@
+
+body{
+    background:black;
+}
+
+.button-wrapper {
+    position: relative;
+    top: 7%;
+    z-index: 999;
+}
+
+.button-container {
+    width: 10%;
+    float: left;
+    background-color: #7d9990;
+    margin: 20px;
+    height: 100px;
+    text-align: center;
+    cursor: pointer;
+    
+}
+
+span.button-text {
+    position: relative;
+    top: 40%;
+    text-align: center;
+    font-weight: bold;
+}
+
+
+
+.side-button-wrapper {
+    position: relative;
+    top: -18%;
+    left: 52%;
+    width: 100px;
+    z-index: 999;
+}
+
+.side-button-container {
+    background-color: #7d8999;
+    margin: 10px 0 10px 0;
+    height: 30px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.side-button-container span.button-text {
+    position: relative;
+    top: 22%;
+    text-align: center;
+    font-weight: bold;
+    color:white;
+}
+
+
+.game-wrapper {
+    height: 200px;
+    width: 200px;
+    position: relative;
+    top: 11%;
+    left: 20%;
+}
+
+.game-image {
+    height: 300px;
+    width: 300px;
+    background-repeat: no-repeat;
+    background-image: url(imgs/0.png);
+}
+
+.gold-image {
+    bottom: 141px;
+    left: 20px;
+}
